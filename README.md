@@ -1,4 +1,4 @@
-## Hi there iam mental👋
+## Hi there i am Full Stack Developer👋
 
 <!--
 **Shojini-NI/Shojini-NI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
